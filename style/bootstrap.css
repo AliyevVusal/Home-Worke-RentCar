@@ -2130,7 +2130,6 @@ progress {
   color: #fff;
   border-color: #373b3e;
 }
-
 .table-responsive {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -2189,7 +2188,15 @@ progress {
   padding-bottom: calc(0.25rem + 1px);
   font-size: 0.875rem;
 }
-
+.my-bg2{
+  background-image: url(http://anpsthemes.com/limorent/demo-1/wp-content/uploads/2016/01/statement-limo.jpg?id=2111);
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+.box img:hover{
+    opacity: 0.5;
+}
 .form-text {
   margin-top: 0.25rem;
   font-size: 0.875em;
